@@ -18,7 +18,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                  <ul class="navbar-nav">
-                     <li class="nav-item"><a class="nav-link" href="#">sucursal</a></li>
+                     <li class="nav-item"><a class="nav-link" href="productos.php">Herramientas</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">precios</a></li>
                     <li class="nav-item"><a class="nav-link disabled" aria-disabled="true">producto</a></li>
                 </ul>
